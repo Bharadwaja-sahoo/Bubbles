@@ -16,6 +16,7 @@ var hitrn=0;
         document.querySelector("#hitVal").textContent=hitrn;
     }
     
+    
     function makeBubble(){
         var clutter="";
     for(var i=1;i<=500;i++){
